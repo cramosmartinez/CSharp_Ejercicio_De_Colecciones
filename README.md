@@ -23,4 +23,4 @@ Este proyecto contiene una serie de ejercicios prácticos sobre el uso de colecc
 
 1. **Clonar el Repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/ejercicios-colecciones-csharp.git
+   git clone https://github.com/cramosmartinez/ejercicios-colecciones-csharp.git
